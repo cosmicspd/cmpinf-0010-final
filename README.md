@@ -1,6 +1,7 @@
 # CMPINF 0010 Final Project Group 17
 
 ## Members:
+**Team Name:** Bocchi
 - Edwin Lin (edl70@pitt.edu)
 - Joseph Hu (joh309@pitt.edu)
 - William Valli (wav16@pitt.edu)
