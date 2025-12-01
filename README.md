@@ -14,18 +14,18 @@ To run the code in the notebooks, the some of the datasets must be downloaded an
 
 ---
 
-- Dataset 1: 311 Data
+- Dataset 1: 311 Data (Joseph)
 - Link: https://data.wprdc.org/dataset/311-data
 - Explanation: This dataset tracks 311 service requests such as maintenance issues and resident complaints, showing neighborhood conditions and quality of life.
 
 ---
 
-- Dataset 2: Police Incident Blotter
+- Dataset 2: Police Incident Blotter (Edwin)
 - Link: https://data.wprdc.org/dataset/uniform-crime-reporting-data
 - Explanation: This dataset includes counts of police incidents by neighborhood, allowing comparisons of safety levels across Pittsburgh.
 
 ---
 
-- Dataset 3: City of Pittsburgh Parks
+- Dataset 3: City of Pittsburgh Parks (William)
 - Link: https://data.wprdc.org/dataset/parks
 - Explanation: This dataset contains information on parks and open spaces across Pittsburgh neighborhoods, which we used to measure access to recreational activities and free space.
